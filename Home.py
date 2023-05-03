@@ -34,6 +34,5 @@ st.write(ressources)
 st.write('### Suggestions')
 
 suggestions = """
-For any suggestions, please contact yukikongju@outlook.com
-""" 
+testing""" 
 st.write(suggestions)
