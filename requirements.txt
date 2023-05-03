@@ -1,7 +1,7 @@
 pandas==1.5.3
 matplotlib
 streamlit==1.19.0
-audl==0.0.5
+audl
 altair
 BeautifulSoup4
 requests
