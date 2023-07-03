@@ -1,6 +1,5 @@
 import streamlit as st
-import pandas as pd
-
+import pandas==1.5.3 as pd
 import utils
 
 from static.parameters import SUPPORTED_SEASONS, CURRENT_SEASON
